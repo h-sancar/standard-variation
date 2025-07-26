@@ -55,3 +55,5 @@ This setup allows traders to:
 5. **Scalable Thinking** - the solution is generic enough to be applied to other asset classes or integrated into multi-script toolkits.
 
 ## Sample Output
+
+https://github.com/user-attachments/assets/2265144e-2d27-49d8-8350-4f5629c45b91
