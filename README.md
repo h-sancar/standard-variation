@@ -56,4 +56,4 @@ This setup allows traders to:
 
 ## Sample Output
 
-https://github.com/user-attachments/assets/2265144e-2d27-49d8-8350-4f5629c45b91
+[https://github.com/user-attachments/assets/2265144e-2d27-49d8-8350-4f5629c45b91](https://github.com/user-attachments/assets/90a01c92-5889-4e52-bbf5-1d7d9796d21d)
