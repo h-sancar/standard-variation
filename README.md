@@ -1,5 +1,6 @@
+# Standard Variation Indicator for Price Range Analysis:<br> Data Automation in Financial Markets
 
-# Standard Variations Indicator for Price Range Analysis:<br> Data Automation in Financial Markets
+![.](nasdaq.png)
 
 ## Introduction
 This project showcases a technical solution developed to streamline a manual daily volatility analysis workflow. Originally conducted using pen and paper on a trading floor, the process was first automated in Excel and later evolved into a fully visualized script built on TradingView using Pine Script (TradingView’s internal scripting language).
