@@ -8,11 +8,11 @@ This project showcases a technical solution developed to streamline a manual dai
 The script dynamically calculates historical price ranges and visualizes them to support data-driven trading decisions. It demonstrates the ability to identify repetitive manual tasks and replace them with automated, scalable solutions tailored for high-speed financial environments.
 
 ## Table of Contents
-- [Business Context & Problem](#2-business-context--problem)
-- [Solution Overview](#3-solution-overview)
-- [Technical Skills Demonstrated](#4-technical-skills-demonstrated)
-- [Business & Analytical Skills Demonstrated](#5-business--analytical-skills-demonstrated)
-- [Sample Output](#6-sample-output)
+- [Business Context & Problem](#business-context--problem)
+- [Solution Overview](#solution-overview)
+- [Technical Skills Demonstrated](#technical-skills-demonstrated)
+- [Business & Analytical Skills Demonstrated](#business--analytical-skills-demonstrated)
+- [Sample Output](#sample-output)
 
 ## Business Context & Problem
 During my role as a Fixed Income Sales Trader, **I manually calculated the prior day's price ranges and statistical deviations to identify high-probability support and resistance levels. This was a time-consuming, repetitive, and error-prone process — often under time pressure during market open.**
